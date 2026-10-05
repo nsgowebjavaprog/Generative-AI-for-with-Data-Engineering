@@ -5,7 +5,9 @@ Artificial Intelligence || Language AI || NLP || Evolution of NLP || Embedding V
 ## ------
 ![alt text](<Screenshot 2026-10-05 152239.png>)
 ## ------
-
+**Databricks** is a cloud-based platform used for **data engineering, data analytics, machine learning, and AI**.
+It helps organizations **process and analyze large amounts of data** using technologies like **Apache Spark and Delta Lake**.
+ 
 
 ## ------
 
